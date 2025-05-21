@@ -1,5 +1,5 @@
+<img src="https://github.com/user-attachments/assets/8cc3904f-582e-4177-8205-e78ccea0500a" alt="Alt Text" width="300" height="300"></img>
 # Movie Ticket System API Documentation (PHP Version)
-
 ## Introduction
 
 The Movie Ticket System is a comprehensive PHP-based backend application that enables users to browse movies, purchase tickets, and process payments via M-Pesa. This system is designed as a single-file PHP application that handles all aspects of ticket management and payment processing.
