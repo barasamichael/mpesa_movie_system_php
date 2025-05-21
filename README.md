@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/8cc3904f-582e-4177-8205-e78ccea0500a" alt="Alt Text" width="300" height="300"></img>
+<img src="https://github.com/user-attachments/assets/8cc3904f-582e-4177-8205-e78ccea0500a" alt="Alt Text" width="180" height="180"></img>
 # Movie Ticket System API Documentation (PHP Version)
 ## Introduction
 
